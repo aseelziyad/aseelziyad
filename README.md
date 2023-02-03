@@ -6,21 +6,21 @@
 
 
 #### Programming Languages:
--HTML.
--CSS.
--JAVASCRIPT.
--REACT.
+#####HTML.
+#####CSS.
+#####JAVASCRIPT.
+#####REACT.
 
 #### Familiar With:
--Node
--Express
--Mongoose
--MongoDB
--Postman
--Figma
+#####Node
+#####Express
+#####Mongoose
+#####MongoDB
+#####Postman
+#####Figma
 
 
-![image](https://user-images.githubusercontent.com/83504218/216675699-c29c035b-803a-4740-8844-6500953c9205.png)
+#####![image](https://user-images.githubusercontent.com/83504218/216675699-c29c035b-803a-4740-8844-6500953c9205.png)
 
 
 #### Contact Info:
