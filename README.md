@@ -5,13 +5,13 @@
 #### Interested in Frontend web developer position.
 
 
-#### Programming Languages
+### Programming Languages:
 ##### HTML.
 ##### CSS.
 ##### JAVASCRIPT.
 ##### REACT.
 
-#### Familiar With
+### Familiar With:
 ##### Node
 ##### Express
 ##### Mongoose
